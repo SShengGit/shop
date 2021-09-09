@@ -1,1 +1,2 @@
 this is a file.
+Creating a new branch is quick AND simple.
