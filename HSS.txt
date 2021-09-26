@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 fast forward
 add comment
 我的github项目也新增了内容
+directory1新增了内容
