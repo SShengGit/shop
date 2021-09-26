@@ -2,3 +2,4 @@ this is a file.
 Creating a new branch is quick and simple.
 fast forward
 add comment
+directory1新增了内容
